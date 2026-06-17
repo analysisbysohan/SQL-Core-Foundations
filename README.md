@@ -13,5 +13,7 @@ Welcome to my SQL learning and data analysis showcase. This repository tracks my
 
 * `movie_analysis.sql`: Practical execution scripts showcasing the foundational query lifecycle (Filter, Sort, and Limit combinations).
 
+* **`SQL/02_multi_condition_filtering.sql`**: Advanced filtering utilizing `AND` (strict multi-rule evaluation) and `OR` (inclusive condition matching) logical operators.
+
 ---
 *Maintained by [Sohan](https://github.com/analysisbysohan)*
