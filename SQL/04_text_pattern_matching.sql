@@ -5,3 +5,4 @@ WHERE Title LIKE '%KNIGHT%';
 -- Challenge 2: Finding a word at the very beginning (Starts With)
 SELECT * FROM MOVIES 
 WHERE TITLE LIKE 'STAR%';
+
