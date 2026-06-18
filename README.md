@@ -16,5 +16,6 @@ Welcome to my SQL learning and data analysis showcase. This repository tracks my
 * **`SQL/02_multi_condition_filtering.sql`**: Advanced filtering utilizing `AND` (strict multi-rule evaluation) and `OR` (inclusive condition matching) logical operators.
 *  **`SQL/03_range_filtering_between.sql`**: Implementing `BETWEEN` and `NOT BETWEEN` operators for inclusive and exclusive numeric range filtering.
 * **`sql/04_text_pattern_matching.sql`**: Utilizing the `LIKE` operator alongside `%` wildcards to perform advanced string searches (Starts With, Ends With, and Contains).
+* **`sql/05_list_targeting_in.sql`**: Utilizing the `IN` and `NOT IN` operators to cleanly match or exclude lists of specific values without chaining multiple logical conditions.
 ---
 *Maintained by [Sohan](https://github.com/analysisbysohan)*
