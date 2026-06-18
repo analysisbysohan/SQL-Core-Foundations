@@ -1,6 +1,6 @@
 # SQL Core Foundations
 
-Welcome to my SQL learning and data analysis showcase. This repository tracks my journey in mastering structured database queries, moving from foundational syntax to advanced data manipulation.
+Welcome to my SQL learning and data analysis showcase. This repository tracks my journey in mastering structured database queries, moving from foundational syntax to advanced data manipulation. 
 
 ## 🚀 Core Concepts Mastered
 
