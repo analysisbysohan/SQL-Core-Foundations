@@ -9,4 +9,3 @@ WHERE TITLE LIKE 'STAR%';
 -- Challenge 2: Finding a word at the very beginning (End With)
 SELECT * FROM MOVIES 
 WHERE TITLE LIKE '%2';
-
