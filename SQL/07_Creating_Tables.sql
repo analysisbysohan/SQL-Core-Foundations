@@ -13,3 +13,6 @@ CREATE TABLE students (
 -- Inserting our first rows of data
 INSERT INTO students (student_id, student_name) VALUES (101, 'Rahul');
 INSERT INTO students (student_id, student_name) VALUES (102, 'AISHWARYA');
+
+-- View all data inside the table
+SELECT * FROM students;
