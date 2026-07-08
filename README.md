@@ -18,7 +18,7 @@ Welcome to my SQL learning and data analysis showcase. This repository tracks my
 * **`sql/04_text_pattern_matching.sql`**: Utilizing the `LIKE` operator alongside `%` wildcards to perform advanced string searches (Starts With, Ends With, and Contains).
 * **`sql/05_list_targeting_in.sql`**: Utilizing the `IN` and `NOT IN` operators to cleanly match or exclude lists of specific values without chaining multiple logical conditions.
 * **`sql/06_basic_aggregates.sql`**: Utilizing aggregate functions (`SUM`, `AVG`, `COUNT`) along with column aliasing (`AS`) to generate high-level business metrics and summary reports.
-  
+
 ### 🛢️ SQL Core Foundations
 * **`07_Creating_Tables.sql`**: A foundational database script demonstrating how to create tables from scratch using proper data types (`INT`, `VARCHAR`, `DATE`) and how to populate them using `INSERT INTO` statements.
 ---
