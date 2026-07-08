@@ -9,3 +9,7 @@ CREATE TABLE students (
     student_id INT,
     student_name VARCHAR
 );
+
+-- Inserting our first rows of data
+INSERT INTO students (student_id, student_name) VALUES (101, 'Rahul');
+INSERT INTO students (student_id, student_name) VALUES (102, 'AISHWARYA');
