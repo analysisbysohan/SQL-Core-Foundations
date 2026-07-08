@@ -20,6 +20,6 @@ Welcome to my SQL learning and data analysis showcase. This repository tracks my
 * **`sql/06_basic_aggregates.sql`**: Utilizing aggregate functions (`SUM`, `AVG`, `COUNT`) along with column aliasing (`AS`) to generate high-level business metrics and summary reports.
   
 ### 🛢️ SQL Core Foundations
-* **`07_Creating_Tables.sql`**: Comprehensive script demonstrating Data Definition Language (DDL) fundamentals, including table initialization, defining structural data types (`INT`, `VARCHAR`, `DECIMAL`), and enforcing integrity constraints (`PRIMARY KEY`, `NOT NULL`).
+* **`07_Creating_Tables.sql`**: A foundational database script demonstrating how to create tables from scratch using proper data types (`INT`, `VARCHAR`, `DATE`) and how to populate them using `INSERT INTO` statements.
 ---
 *Maintained by [Sohan](https://github.com/analysisbysohan)*
