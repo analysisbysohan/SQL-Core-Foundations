@@ -16,3 +16,7 @@ INSERT INTO students (student_id, student_name) VALUES (102, 'AISHWARYA');
 
 -- View all data inside the table
 SELECT * FROM students;
+
+-- Filtering data using the WHERE clause
+SELECT * FROM students
+WHERE student_name = 'RAHUL';
