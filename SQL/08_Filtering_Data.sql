@@ -10,3 +10,11 @@ WHERE price <= 150;
 SELECT * FROM employees
 WHERE department = 'IT' 
   AND salary > 60000;
+
+-- Filtering using the OR operator
+SELECT * FROM employees 
+WHERE department = 'HR' OR department = 'FINANCE';
+
+-- Cleaner shortcut using the IN operator
+SELECT * FROM employees 
+WHERE department IN ('HR', 'FINANCE');
