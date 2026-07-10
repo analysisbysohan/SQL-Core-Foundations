@@ -9,4 +9,5 @@ ORDER BY price DESC;
 -- Combining filtering (WHERE) and sorting (ORDER BY)
 SELECT * FROM products
 WHERE category = 'Electronics'
-ORDER BY price DESC;
+ORDER BY price DESC
+LIMIT 5;
