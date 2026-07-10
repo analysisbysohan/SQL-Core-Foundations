@@ -23,5 +23,6 @@ Welcome to my SQL learning and data analysis showcase. This repository tracks my
 
 * **`07_Creating_Tables.sql`**: A foundational database script demonstrating how to create tables from scratch using proper data types (`INT`, `VARCHAR`, `DATE`) and how to populate them using `INSERT INTO` statements.
 * **`08_Filtering_Data.sql`**: Contains queries demonstrating data filtering techniques using the `WHERE` clause with text matching and numerical comparison operators (`<=`, `>`, etc.).
+* **`09_Sorting_Data.sql`**: Demonstrates how to organize query results in ascending (`ASC`) and descending (`DESC`) order using the `ORDER BY` clause.
 ---
 *Maintained by [Sohan](https://github.com/analysisbysohan)*
