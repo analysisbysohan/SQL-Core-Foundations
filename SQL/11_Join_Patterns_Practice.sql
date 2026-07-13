@@ -100,3 +100,33 @@ WHERE o.customer_id IS NULL;
 | Emma       | Paris |
 +------------+-------+
 */
+-- ==============================================================================
+-- 🧩 PATTERN 4: The "All Possible Combinations" Pattern (CROSS JOIN)
+-- ❓ Question: Generate a complete list of all possible combo meals 
+--    (every food paired with every drink).
+-- ==============================================================================
+
+/*
+📊 EXTRA DATA CONTEXT
+meals Table: ['Burger', 'Pizza']
+drinks Table: ['Cola', 'Lemonade']
+*/
+
+SELECT 
+    m.meal_name, 
+    d.drink_name
+FROM meals m 
+CROSS JOIN drinks d;
+
+/*
+📊 EXPECTED OUTPUT:
++-----------+------------+
+| meal_name | drink_name |
++-----------+------------+
+| Burger    | Cola       |
+| Burger    | Lemonade   |
+| Pizza     | Cola       |
+| Pizza     | Lemonade   |
++-----------+------------+
+Note: 2 meals * 2 drinks = 4 total rows generated (Cartesian Product).
+*/
