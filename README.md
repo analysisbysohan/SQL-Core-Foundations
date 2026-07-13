@@ -25,6 +25,6 @@ Welcome to my SQL learning and data analysis showcase. This repository tracks my
 * **`08_Filtering_Data.sql`**: Contains queries demonstrating data filtering techniques using the `WHERE` clause with text matching and numerical comparison operators (`<=`, `>`, etc.).
 * **`09_Sorting_Data.sql`**: Demonstrates how to organize query results in ascending (`ASC`) and descending (`DESC`) order using the `ORDER BY` clause.
 * **`10_End_To_End_Practice.sql`**: A complete, scratch-built workflow combining table creation, data insertion, and analytical querying.
-* **`11_Join_Patterns_Practice.sql`**: Comprehensive case study exploring relational mapping using `LEFT JOIN`, `INNER JOIN`, and `IS NULL` data auditing techniques.
+* **`11_Join_Patterns_Practice.sql`**: Comprehensive case study exploring relational mapping using `LEFT JOIN`, `INNER JOIN`, `IS NULL` data auditing, and `CROSS JOIN` Cartesian products.
 ---
 *Maintained by [Sohan](https://github.com/analysisbysohan)*
