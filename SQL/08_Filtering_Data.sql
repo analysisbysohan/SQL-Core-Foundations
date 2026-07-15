@@ -18,3 +18,4 @@ WHERE department = 'HR' OR department = 'FINANCE';
 -- Cleaner shortcut using the IN operator
 SELECT * FROM employees 
 WHERE department IN ('HR', 'FINANCE');
+
